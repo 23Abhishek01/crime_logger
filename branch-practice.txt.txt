@@ -1,0 +1,2 @@
+This is my first Git branch practice.
+I am learning branching and merging.
